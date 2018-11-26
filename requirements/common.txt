@@ -1,0 +1,6 @@
+aiodns==1.1.1
+aiohttp==3.2.1
+aiohttp-cors==0.7.0
+aiosqlite==0.3.0
+cchardet==2.1.1
+click==6.7

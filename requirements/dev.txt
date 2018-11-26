@@ -1,0 +1,3 @@
+-r common.txt
+pylint==1.9.1
+rope==0.10.7
